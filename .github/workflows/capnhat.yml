@@ -1,0 +1,29 @@
+name: Quet van ban moi
+
+on:
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  quet:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Cai dat thu vien
+        run: pip install requests beautifulsoup4 lxml
+      - name: Quet cac nguon cong khai
+        run: python scripts/quet_van_ban.py
+      - name: Luu ket qua
+        run: |
+          git config user.name "DATA96 Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/vanban-moi.json data/version.json || true
+          git diff --staged --quiet || git commit -m "Cap nhat van ban moi"
+          git push
