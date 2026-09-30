@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ví dụ: Camera ngã tư trung tâm xã",
+    "area": "Tên xã, Tây Ninh",
+    "lat": 10.6425,
+    "lon": 106.657,
+    "type": "img",
+    "url": "https://dia-chi-anh-camera/....jpg",
+    "prov": "Trung tâm IOC tỉnh Tây Ninh",
+    "provUrl": "https://tayninh.gov.vn/",
+    "rate": 10000
+  }
+]
