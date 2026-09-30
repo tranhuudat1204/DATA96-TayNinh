@@ -1,0 +1,23 @@
+[
+  {
+    "ten": "Cổng thông tin điện tử tỉnh Tây Ninh",
+    "url": "https://tayninh.gov.vn/",
+    "chon": "a",
+    "co_quan": "UBND tỉnh Tây Ninh",
+    "cap": "Tỉnh Tây Ninh"
+  },
+  {
+    "ten": "Cơ sở dữ liệu quốc gia về văn bản pháp luật",
+    "url": "https://vbpl.vn/pages/portal.aspx",
+    "chon": "a",
+    "co_quan": "Trung ương",
+    "cap": "Trung ương Nhà nước"
+  },
+  {
+    "ten": "Cổng thông tin điện tử Chính phủ",
+    "url": "https://chinhphu.vn/he-thong-van-ban",
+    "chon": "a",
+    "co_quan": "Chính phủ",
+    "cap": "Trung ương Nhà nước"
+  }
+]
