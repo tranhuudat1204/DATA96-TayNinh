@@ -1,5 +1,75 @@
 [
  {
+  "so": "18175/BTC-ĐTPT",
+  "ngay": "11/11/2026",
+  "loai": "",
+  "cq": "Chính phủ",
+  "cap": "Trung ương Nhà nước",
+  "ty": "18175/BTC-ĐTPT 11/11/2026",
+  "nguon": "https://chinhphu.vn/?pageid=27160&docid=220252",
+  "quet_luc": "2026-11-12"
+ },
+ {
+  "so": "2452/QĐ-NHNN",
+  "ngay": "10/11/2026",
+  "loai": "",
+  "cq": "Chính phủ",
+  "cap": "Trung ương Nhà nước",
+  "ty": "2452/QĐ-NHNN 10/11/2026",
+  "nguon": "https://chinhphu.vn/?pageid=27160&docid=220246",
+  "quet_luc": "2026-11-12"
+ },
+ {
+  "so": "32/2013/TT-NHNN",
+  "ngay": "",
+  "loai": "Quy định",
+  "cq": "Chính phủ",
+  "cap": "Trung ương Nhà nước",
+  "ty": "Về việc tiếp tục có hiệu lực của Thông tư số 32/2013/TT-NHNN hướng dẫn thực hiện quy định hạn chế sử dụng ngoại hối trên lãnh thổ Việt Nam được sửa đổi, bổ sung bởi Thông tư số 03/2019/TT-NHNN và Thông tư số 75/2025/TT-NHNN",
+  "nguon": "https://chinhphu.vn/?pageid=27160&docid=220246",
+  "quet_luc": "2026-11-12"
+ },
+ {
+  "so": "2171/QĐ-TTg",
+  "ngay": "10/11/2026",
+  "loai": "",
+  "cq": "Chính phủ",
+  "cap": "Trung ương Nhà nước",
+  "ty": "2171/QĐ-TTg 10/11/2026",
+  "nguon": "https://chinhphu.vn/?pageid=27160&docid=220248",
+  "quet_luc": "2026-11-12"
+ },
+ {
+  "so": "2158/QĐ-TTg",
+  "ngay": "10/11/2026",
+  "loai": "",
+  "cq": "Chính phủ",
+  "cap": "Trung ương Nhà nước",
+  "ty": "2158/QĐ-TTg 10/11/2026",
+  "nguon": "https://chinhphu.vn/?pageid=27160&docid=220247",
+  "quet_luc": "2026-11-12"
+ },
+ {
+  "so": "2156/QĐ-TTg",
+  "ngay": "10/11/2026",
+  "loai": "",
+  "cq": "Chính phủ",
+  "cap": "Trung ương Nhà nước",
+  "ty": "2156/QĐ-TTg 10/11/2026",
+  "nguon": "https://chinhphu.vn/?pageid=27160&docid=220238",
+  "quet_luc": "2026-11-12"
+ },
+ {
+  "so": "11-CT/TW",
+  "ngay": "",
+  "loai": "Chỉ thị",
+  "cq": "Chính phủ",
+  "cap": "Trung ương Nhà nước",
+  "ty": "Ban hành Kế hoạch thực hiện Chỉ thị số 11-CT/TW ngày 20 tháng 7 năm 2026 của Bộ Chính trị về tăng cường sự lãnh đạo của Đảng và phát huy vai trò của các hội quần chúng trong giai đoạn phát triển mới",
+  "nguon": "https://chinhphu.vn/?pageid=27160&docid=220238",
+  "quet_luc": "2026-11-12"
+ },
+ {
   "so": "361/NQ-CP",
   "ngay": "10/11/2026",
   "loai": "",
@@ -7,7 +77,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "361/NQ-CP 10/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220237",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "328/NQ-CP",
@@ -17,7 +87,37 @@
   "cap": "Trung ương Nhà nước",
   "ty": "Sửa đổi, bổ sung một số nội dung tại Nghị quyết số 328/NQ-CP ngày 13 tháng 10 năm 2025 của Chính phủ ban hành Chương trình hành động của Chính phủ thực hiện Nghị quyết số 70-NQ/TW ngày 20 tháng 8 năm 2025 của Bộ Chính trị về bảo đảm an ninh năng lượng quốc gia đến năm 2030, tầm nhìn đến năm 2045",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220237",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
+ },
+ {
+  "so": "167/2026/TT-BTC",
+  "ngay": "10/11/2026",
+  "loai": "",
+  "cq": "Chính phủ",
+  "cap": "Trung ương Nhà nước",
+  "ty": "167/2026/TT-BTC 10/11/2026",
+  "nguon": "https://chinhphu.vn/?pageid=27160&docid=220244",
+  "quet_luc": "2026-11-12"
+ },
+ {
+  "so": "137/2026/VBHN-TT-BCT",
+  "ngay": "10/11/2026",
+  "loai": "",
+  "cq": "Chính phủ",
+  "cap": "Trung ương Nhà nước",
+  "ty": "137/2026/VBHN-TT-BCT 10/11/2026",
+  "nguon": "https://chinhphu.vn/?pageid=27160&docid=220243",
+  "quet_luc": "2026-11-12"
+ },
+ {
+  "so": "66/2026/VBHN-TT-BTC",
+  "ngay": "10/11/2026",
+  "loai": "",
+  "cq": "Chính phủ",
+  "cap": "Trung ương Nhà nước",
+  "ty": "66/2026/VBHN-TT-BTC 10/11/2026",
+  "nguon": "https://chinhphu.vn/?pageid=27160&docid=220242",
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "52/2026/QĐ-TTg",
@@ -27,7 +127,37 @@
   "cap": "Trung ương Nhà nước",
   "ty": "52/2026/QĐ-TTg 10/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220236",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
+ },
+ {
+  "so": "47/2026/NQ-CP",
+  "ngay": "10/11/2026",
+  "loai": "",
+  "cq": "Chính phủ",
+  "cap": "Trung ương Nhà nước",
+  "ty": "47/2026/NQ-CP 10/11/2026",
+  "nguon": "https://chinhphu.vn/?pageid=27160&docid=220249",
+  "quet_luc": "2026-11-12"
+ },
+ {
+  "so": "16/2026/NQ-CP",
+  "ngay": "",
+  "loai": "Nghị quyết",
+  "cq": "Chính phủ",
+  "cap": "Trung ương Nhà nước",
+  "ty": "Sửa đổi, bổ sung Nghị quyết số 16/2026/NQ-CP ngày 07 tháng 4 năm 2026 của Chính phủ quy định về cơ chế, chính sách tháo gỡ khó khăn, vướng mắc đối với dự án đầu tư theo hình thức Xây dựng - Chuyển giao",
+  "nguon": "https://chinhphu.vn/?pageid=27160&docid=220249",
+  "quet_luc": "2026-11-12"
+ },
+ {
+  "so": "46/2026/NQ-CP",
+  "ngay": "10/11/2026",
+  "loai": "",
+  "cq": "Chính phủ",
+  "cap": "Trung ương Nhà nước",
+  "ty": "46/2026/NQ-CP 10/11/2026",
+  "nguon": "https://chinhphu.vn/?pageid=27160&docid=220250",
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "2154/QĐ-TTg",
@@ -37,7 +167,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "2154/QĐ-TTg 09/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220235",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "358/NQ-CP",
@@ -47,7 +177,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "358/NQ-CP 09/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220234",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "27-NQ/TW",
@@ -57,7 +187,37 @@
   "cap": "Trung ương Nhà nước",
   "ty": "Ban hành Chương trình hành động của Chính phủ thực hiện Nghị quyết số 27-NQ/TW ngày 28 tháng 8 năm 2026 của Bộ Chính trị về phát triển các vùng và tổ chức không gian phát triển quốc gia trong giai đoạn mới",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220234",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
+ },
+ {
+  "so": "83/2026/TT-BXD",
+  "ngay": "09/11/2026",
+  "loai": "",
+  "cq": "Chính phủ",
+  "cap": "Trung ương Nhà nước",
+  "ty": "83/2026/TT-BXD 09/11/2026",
+  "nguon": "https://chinhphu.vn/?pageid=27160&docid=220239",
+  "quet_luc": "2026-11-12"
+ },
+ {
+  "so": "02/2026/VBHN-NĐ-BNG",
+  "ngay": "09/11/2026",
+  "loai": "",
+  "cq": "Chính phủ",
+  "cap": "Trung ương Nhà nước",
+  "ty": "02/2026/VBHN-NĐ-BNG 09/11/2026",
+  "nguon": "https://chinhphu.vn/?pageid=27160&docid=220241",
+  "quet_luc": "2026-11-12"
+ },
+ {
+  "so": "01/2026/VBHN-NĐ-BNG",
+  "ngay": "09/11/2026",
+  "loai": "",
+  "cq": "Chính phủ",
+  "cap": "Trung ương Nhà nước",
+  "ty": "01/2026/VBHN-NĐ-BNG 09/11/2026",
+  "nguon": "https://chinhphu.vn/?pageid=27160&docid=220240",
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "82/2026/TT-BXD",
@@ -67,7 +227,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "82/2026/TT-BXD 07/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220229",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "73/CĐ-TTg",
@@ -77,7 +237,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "73/CĐ-TTg 07/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220223",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "2138/QĐ-TTg",
@@ -87,7 +247,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "2138/QĐ-TTg 06/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220217",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "2137/QĐ-TTg",
@@ -97,7 +257,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "2137/QĐ-TTg 06/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220233",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "2136/QĐ-TTg",
@@ -107,7 +267,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "2136/QĐ-TTg 06/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220218",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "2131/QĐ-TTg",
@@ -117,7 +277,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "2131/QĐ-TTg 06/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220219",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "2129/QĐ-TTg",
@@ -127,7 +287,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "2129/QĐ-TTg 06/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220232",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "576/TB-VPCP",
@@ -137,7 +297,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "576/TB-VPCP 06/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220220",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "574/TB-VPCP",
@@ -147,7 +307,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "574/TB-VPCP 06/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220207",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "402/2026/NĐ-CP",
@@ -157,7 +317,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "402/2026/NĐ-CP 06/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220216",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "114/2018/NĐ-CP",
@@ -167,7 +327,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "Sửa đổi, bổ sung một số điều của Nghị định số 114/2018/NĐ-CP ngày 04 tháng 9 năm 2018 của Chính phủ về quản lý an toàn đập, hồ chứa nước",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220216",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "353/NQ-CP",
@@ -177,7 +337,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "353/NQ-CP 06/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220222",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "351/NQ-CP",
@@ -187,7 +347,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "351/NQ-CP 06/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220221",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "65/2026/VBHN-NĐ-BTC",
@@ -197,7 +357,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "65/2026/VBHN-NĐ-BTC 06/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220227",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "51/2026/TT-BNNMT",
@@ -207,7 +367,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "51/2026/TT-BNNMT 06/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220225",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "30/2026/VBHN-TT-BKHCN",
@@ -217,7 +377,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "30/2026/VBHN-TT-BKHCN 06/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220224",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "11281/VPCP-CN",
@@ -227,7 +387,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "11281/VPCP-CN 05/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220205",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "11272/VPCP-CN",
@@ -237,7 +397,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "11272/VPCP-CN 05/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220210",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "2116/QĐ-TTg",
@@ -247,7 +407,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "2116/QĐ-TTg 05/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220202",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "2110/QĐ-TTg",
@@ -257,7 +417,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "2110/QĐ-TTg 05/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220203",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "572/TB-VPCP",
@@ -267,7 +427,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "572/TB-VPCP 05/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220206",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "72/CĐ-TTg",
@@ -277,7 +437,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "72/CĐ-TTg 05/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220204",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "64/2026/VBHN-NĐ-BTC",
@@ -287,7 +447,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "64/2026/VBHN-NĐ-BTC 05/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220213",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "63/2026/VBHN-NĐ-BTC",
@@ -297,7 +457,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "63/2026/VBHN-NĐ-BTC 05/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220212",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "20/2026/VBHN-TT-BVHTTDL",
@@ -307,7 +467,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "20/2026/VBHN-TT-BVHTTDL 05/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220211",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "11231/VPCP-CN",
@@ -317,7 +477,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "11231/VPCP-CN 04/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220201",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "3228/QĐ-BTC",
@@ -327,7 +487,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "3228/QĐ-BTC 04/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220214",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "01/2017/TT-BTC",
@@ -337,7 +497,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "Về việc tiếp tục có hiệu lực của Thông tư số 01/2017/TT-BTC hướng dẫn chế độ tài chính đối với Công ty Quản lý tài sản của các tổ chức tín dụng Việt Nam (đã được sửa đổi, bổ sung bởi Thông tư số 84/2020/TT-BTC)",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220214",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "2101/QĐ-TTg",
@@ -347,7 +507,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "2101/QĐ-TTg 04/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220192",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "970/QĐ-TTg",
@@ -357,7 +517,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "Bãi bỏ Quyết định số 970/QĐ-TTg ngày 13 tháng 9 năm 2024 của Thủ tướng Chính phủ ban hành danh mục dịch vụ sự nghiệp công cơ bản, thiết yếu sử dụng ngân sách nhà nước thuộc lĩnh vực tài chính",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220192",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "401/2026/NĐ-CP",
@@ -367,7 +527,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "401/2026/NĐ-CP 04/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220209",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "81/2026/TT-BXD",
@@ -377,7 +537,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "81/2026/TT-BXD 04/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220199",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "71/CĐ-TTg",
@@ -387,7 +547,7 @@
   "cap": "Trung ương Nhà nước",
   "ty": "71/CĐ-TTg 04/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220194",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "62/2026/VBHN-NĐ-BTC",
@@ -397,7 +557,27 @@
   "cap": "Trung ương Nhà nước",
   "ty": "62/2026/VBHN-NĐ-BTC 04/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220197",
-  "quet_luc": "2026-11-11"
+  "quet_luc": "2026-11-12"
+ },
+ {
+  "so": "178/2026/TT-BQP",
+  "ngay": "03/11/2026",
+  "loai": "",
+  "cq": "Chính phủ",
+  "cap": "Trung ương Nhà nước",
+  "ty": "178/2026/TT-BQP 03/11/2026",
+  "nguon": "https://chinhphu.vn/?pageid=27160&docid=220231",
+  "quet_luc": "2026-11-12"
+ },
+ {
+  "so": "112/2026/VBHN-NĐ-BNNMT",
+  "ngay": "03/11/2026",
+  "loai": "",
+  "cq": "Chính phủ",
+  "cap": "Trung ương Nhà nước",
+  "ty": "112/2026/VBHN-NĐ-BNNMT 03/11/2026",
+  "nguon": "https://chinhphu.vn/?pageid=27160&docid=220230",
+  "quet_luc": "2026-11-12"
  },
  {
   "so": "2089/QĐ-TTg",
@@ -447,26 +627,6 @@
   "cap": "Trung ương Nhà nước",
   "ty": "400/2026/NĐ-CP 03/11/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=220208",
-  "quet_luc": "2026-11-11"
- },
- {
-  "so": "178/2026/TT-BQP",
-  "ngay": "03/11/2026",
-  "loai": "",
-  "cq": "Chính phủ",
-  "cap": "Trung ương Nhà nước",
-  "ty": "178/2026/TT-BQP 03/11/2026",
-  "nguon": "https://chinhphu.vn/?pageid=27160&docid=220231",
-  "quet_luc": "2026-11-11"
- },
- {
-  "so": "112/2026/VBHN-NĐ-BNNMT",
-  "ngay": "03/11/2026",
-  "loai": "",
-  "cq": "Chính phủ",
-  "cap": "Trung ương Nhà nước",
-  "ty": "112/2026/VBHN-NĐ-BNNMT 03/11/2026",
-  "nguon": "https://chinhphu.vn/?pageid=27160&docid=220230",
   "quet_luc": "2026-11-11"
  },
  {
@@ -2838,165 +2998,5 @@
   "ty": "49/2026/VBHN-TT-BTC 09/10/2026",
   "nguon": "https://chinhphu.vn/?pageid=27160&docid=219936",
   "quet_luc": "2026-10-19"
- },
- {
-  "so": "44/2026/TT-BNNMT",
-  "ngay": "09/10/2026",
-  "loai": "",
-  "cq": "Chính phủ",
-  "cap": "Trung ương Nhà nước",
-  "ty": "44/2026/TT-BNNMT 09/10/2026",
-  "nguon": "https://chinhphu.vn/?pageid=27160&docid=219929",
-  "quet_luc": "2026-10-19"
- },
- {
-  "so": "27/2026/TT-BNNMT",
-  "ngay": "",
-  "loai": "Thông tư",
-  "cq": "Chính phủ",
-  "cap": "Trung ương Nhà nước",
-  "ty": "Sửa đổi, bổ sung một số điều của Thông tư số 27/2026/TT-BNNMT ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Nông nghiệp và Môi trường ban hành Danh mục sản phẩm, hàng hóa có mức độ rủi ro trung bình, mức độ rủi ro cao thuộc trách nhiệm quản lý của Bộ Nông nghiệp và Môi trường",
-  "nguon": "https://chinhphu.vn/?pageid=27160&docid=219929",
-  "quet_luc": "2026-10-19"
- },
- {
-  "so": "39/2026/TT-BYT",
-  "ngay": "09/10/2026",
-  "loai": "",
-  "cq": "Chính phủ",
-  "cap": "Trung ương Nhà nước",
-  "ty": "39/2026/TT-BYT 09/10/2026",
-  "nguon": "https://chinhphu.vn/?pageid=27160&docid=219928",
-  "quet_luc": "2026-10-19"
- },
- {
-  "so": "08/2026/VBHN-QĐ-UBND",
-  "ngay": "09/10/2026",
-  "loai": "",
-  "cq": "Chính phủ",
-  "cap": "Trung ương Nhà nước",
-  "ty": "08/2026/VBHN-QĐ-UBND 09/10/2026",
-  "nguon": "https://chinhphu.vn/?pageid=27160&docid=219926",
-  "quet_luc": "2026-10-19"
- },
- {
-  "so": "07/2026/VBHN-QĐ-UBND",
-  "ngay": "09/10/2026",
-  "loai": "",
-  "cq": "Chính phủ",
-  "cap": "Trung ương Nhà nước",
-  "ty": "07/2026/VBHN-QĐ-UBND 09/10/2026",
-  "nguon": "https://chinhphu.vn/?pageid=27160&docid=219927",
-  "quet_luc": "2026-10-19"
- },
- {
-  "so": "10333/VPCP-CN",
-  "ngay": "09/10/2026",
-  "loai": "",
-  "cq": "Chính phủ",
-  "cap": "Trung ương Nhà nước",
-  "ty": "10333/VPCP-CN 09/10/2026",
-  "nguon": "https://chinhphu.vn/?pageid=27160&docid=219918",
-  "quet_luc": "2026-10-16"
- },
- {
-  "so": "1956/QĐ-TTg",
-  "ngay": "09/10/2026",
-  "loai": "",
-  "cq": "Chính phủ",
-  "cap": "Trung ương Nhà nước",
-  "ty": "1956/QĐ-TTg 09/10/2026",
-  "nguon": "https://chinhphu.vn/?pageid=27160&docid=219919",
-  "quet_luc": "2026-10-16"
- },
- {
-  "so": "156-TB/VPTW",
-  "ngay": "",
-  "loai": "Kế hoạch",
-  "cq": "Chính phủ",
-  "cap": "Trung ương Nhà nước",
-  "ty": "Ban hành Kế hoạch triển khai thực hiện Thông báo số 156-TB/VPTW ngày 26 tháng 8 năm 2026 của Văn phòng Trung ương Đảng thông báo ý kiến chỉ đạo của đồng chí Tổng Bí thư, Chủ tịch nước Tô Lâm làm việc với Bộ Văn hoá, Thể thao và Du lịch về công tác bảo tồn, bảo tàng",
-  "nguon": "https://chinhphu.vn/?pageid=27160&docid=219919",
-  "quet_luc": "2026-10-16"
- },
- {
-  "so": "385/2026/NĐ-CP",
-  "ngay": "09/10/2026",
-  "loai": "",
-  "cq": "Chính phủ",
-  "cap": "Trung ương Nhà nước",
-  "ty": "385/2026/NĐ-CP 09/10/2026",
-  "nguon": "https://chinhphu.vn/?pageid=27160&docid=219922",
-  "quet_luc": "2026-10-16"
- },
- {
-  "so": "324/NQ-CP",
-  "ngay": "09/10/2026",
-  "loai": "",
-  "cq": "Chính phủ",
-  "cap": "Trung ương Nhà nước",
-  "ty": "324/NQ-CP 09/10/2026",
-  "nguon": "https://chinhphu.vn/?pageid=27160&docid=219915",
-  "quet_luc": "2026-10-16"
- },
- {
-  "so": "48/2026/QĐ-TTg",
-  "ngay": "09/10/2026",
-  "loai": "",
-  "cq": "Chính phủ",
-  "cap": "Trung ương Nhà nước",
-  "ty": "48/2026/QĐ-TTg 09/10/2026",
-  "nguon": "https://chinhphu.vn/?pageid=27160&docid=219914",
-  "quet_luc": "2026-10-16"
- },
- {
-  "so": "155/2007/QĐ-TTg",
-  "ngay": "",
-  "loai": "Quyết định",
-  "cq": "Chính phủ",
-  "cap": "Trung ương Nhà nước",
-  "ty": "Sửa đổi, bổ sung một số điều của Quyết định số 155/2007/QĐ-TTg ngày 25 tháng 9 năm 2007 của Thủ tướng Chính phủ và Quy chế phối hợp liên ngành phòng, chống tệ nạn mại dâm ban hành kèm theo Quyết định số 155/2007/QĐ-TTg",
-  "nguon": "https://chinhphu.vn/?pageid=27160&docid=219914",
-  "quet_luc": "2026-10-16"
- },
- {
-  "so": "38/2026/TT-BYT",
-  "ngay": "09/10/2026",
-  "loai": "",
-  "cq": "Chính phủ",
-  "cap": "Trung ương Nhà nước",
-  "ty": "38/2026/TT-BYT 09/10/2026",
-  "nguon": "https://chinhphu.vn/?pageid=27160&docid=219925",
-  "quet_luc": "2026-10-16"
- },
- {
-  "so": "48/2026/VBHN-NĐ-BTC",
-  "ngay": "08/10/2026",
-  "loai": "",
-  "cq": "Chính phủ",
-  "cap": "Trung ương Nhà nước",
-  "ty": "48/2026/VBHN-NĐ-BTC 08/10/2026",
-  "nguon": "https://chinhphu.vn/?pageid=27160&docid=219935",
-  "quet_luc": "2026-10-16"
- },
- {
-  "so": "10314/VPCP-KGVX",
-  "ngay": "08/10/2026",
-  "loai": "",
-  "cq": "Chính phủ",
-  "cap": "Trung ương Nhà nước",
-  "ty": "10314/VPCP-KGVX 08/10/2026",
-  "nguon": "https://chinhphu.vn/?pageid=27160&docid=219917",
-  "quet_luc": "2026-10-15"
- },
- {
-  "so": "10300/VPCP-CN",
-  "ngay": "08/10/2026",
-  "loai": "",
-  "cq": "Chính phủ",
-  "cap": "Trung ương Nhà nước",
-  "ty": "10300/VPCP-CN 08/10/2026",
-  "nguon": "https://chinhphu.vn/?pageid=27160&docid=219916",
-  "quet_luc": "2026-10-15"
  }
 ]
